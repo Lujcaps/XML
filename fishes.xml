@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<fishes>
+    <fish>
+        <name>Tiger Shark</name>
+        <variety>
+            <color>Gray</color>
+            <size>10 ft 8 inches to13 ft 11 inches</size>
+            <habitat>Ocean</habitat>
+            <vores>Omnivores</vores>
+            <phylum>Chordate</phylum>
+        </variety>
+        <diet>
+            <food1>Crabs</food1>
+            <food2>Squid</food2>
+            <food3>Small Sharks</food3>
+            <food4>Rays</food4>
+            <food5>Turtles</food5>
+        </diet>
+        <about>
+            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+        </about>
+        <relative>
+            <family>Carcharhinidae</family>
+        </relative>
+        <bite>
+            <pressure>3,700 psi.</pressure>
+        </bite>
+    </fish>
+
+    <fish>
+        <name>Koi Fish</name>
+        <variety>
+            <color>white, black, red, yellow, blue, and cream</color>
+            <size>12 to 15 inches</size>
+            <habitat>Large fishpond</habitat>
+            <vores>Omnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>small bugs and insects</food1>
+            <food2>plants and algae</food2>
+            <food3>watermelon</food3>
+            <food4>shrimp</food4>
+            <food5>pretty much anything</food5>
+        </diet>
+        <about>
+            <description>Koi or more specifically nishikigoi, are colored varieties of the Amur carp that are kept for decorative purposes in outdoor koi ponds or water gardens.</description>
+        </about>
+        <relative>
+            <family>Cyprinidae</family>
+        </relative>
+        <bite>
+            <pressure>700 Newtons.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Saltwater Crocodile</name>
+        <variety>
+            <color>dar greenish-drab</color>
+            <size>17 Feet to 23 Feet</size>
+            <habitat>rivers, estuaries, and lakes.</habitat>
+            <vores>carnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>Turtles</food1>
+            <food2>Snakes</food2>
+            <food3>Buffalo</food3>
+            <food4>Small Fishes</food4>
+            <food5>Birds</food5>
+        </diet>
+        <about>
+            <description>The saltwater crocodile is a crocodilian native to saltwater habitats and brackish wetlands from India's east coast across Southeast Asia and the Sundaic region to northern Australia and Micronesia.</description>
+        </about>
+        <relative>
+            <family>Crocodylidae</family>
+        </relative>
+        <bite>
+            <pressure>3,700 pounds per square inch.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Tiger Shark</name>
+        <variety>
+            <color>Gray</color>
+            <size>18 Feet</size>
+            <habitat>Ocean</habitat>
+            <vores>Omnivores</vores>
+            <type>Carcharhiniformes</type>
+        </variety>
+        <diet>
+            <food1>Crabs</food1>
+            <food2>Squid</food2>
+            <food3>Small Sharks</food3>
+            <food4>Rays</food4>
+            <food5>Turtles</food5>
+        </diet>
+        <about>
+            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+        </about>
+        <relative>
+            <family>Requiem sharks</family>
+        </relative>
+        <bite>
+            <pressure>6,000 pounds per square centimeter or more.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Tiger Shark</name>
+        <variety>
+            <color>Gray</color>
+            <size>18 Feet</size>
+            <habitat>Ocean</habitat>
+            <vores>Omnivores</vores>
+            <type>Carcharhiniformes</type>
+        </variety>
+        <diet>
+            <food1>Crabs</food1>
+            <food2>Squid</food2>
+            <food3>Small Sharks</food3>
+            <food4>Rays</food4>
+            <food5>Turtles</food5>
+        </diet>
+        <about>
+            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+        </about>
+        <relative>
+            <family>Requiem sharks</family>
+        </relative>
+        <bite>
+            <pressure>6,000 pounds per square centimeter or more.</pressure>
+        </bite>
+    </fish>
+    
+</fishes>
