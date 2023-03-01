@@ -38,11 +38,11 @@
             <phylum>Chordata</phylum>
         </variety>
         <diet>
-            <food1>small bugs and insects</food1>
-            <food2>plants and algae</food2>
-            <food3>watermelon</food3>
-            <food4>shrimp</food4>
-            <food5>pretty much anything</food5>
+            <food1>Small bugs and insects</food1>
+            <food2>Plants and algae</food2>
+            <food3>Watermelon</food3>
+            <food4>Shrimp</food4>
+            <food5>Pretty much anything</food5>
         </diet>
         <about>
             <description>Koi or more specifically nishikigoi, are colored varieties of the Amur carp that are kept for decorative purposes in outdoor koi ponds or water gardens.</description>
@@ -56,83 +56,83 @@
     </fish>
     
     <fish>
-        <name>Saltwater Crocodile</name>
+        <name>Orca</name>
         <variety>
-            <color>dar greenish-drab</color>
-            <size>17 Feet to 23 Feet</size>
-            <habitat>rivers, estuaries, and lakes.</habitat>
-            <vores>carnivores</vores>
+            <color>Black and White</color>
+            <size>31 feet</size>
+            <habitat>Ocean</habitat>
+            <vores>Carnivores</vores>
             <phylum>Chordata</phylum>
         </variety>
         <diet>
-            <food1>Turtles</food1>
-            <food2>Snakes</food2>
-            <food3>Buffalo</food3>
-            <food4>Small Fishes</food4>
-            <food5>Birds</food5>
+            <food1>Schooling fish</food1>
+            <food2>Stingrays</food2>
+            <food3>Minke whales</food3>
+            <food4>Seals</food4>
+            <food5>Sharks</food5>
         </diet>
         <about>
-            <description>The saltwater crocodile is a crocodilian native to saltwater habitats and brackish wetlands from India's east coast across Southeast Asia and the Sundaic region to northern Australia and Micronesia.</description>
+            <description>The orca or killer whale (Orcinus orca) is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. It is the only extant species in the genus Orcinus and is recognizable by its black-and-white patterned body.</description>
         </about>
         <relative>
-            <family>Crocodylidae</family>
+            <family>Delphinidae</family>
         </relative>
         <bite>
-            <pressure>3,700 pounds per square inch.</pressure>
+            <pressure>Up to 19,000 psi.</pressure>
         </bite>
     </fish>
     
     <fish>
-        <name>Tiger Shark</name>
+        <name>Coral Reef Snake</name>
         <variety>
-            <color>Gray</color>
-            <size>18 Feet</size>
+            <color>alternating bands of black with gray, blue, or white rings</color>
+            <size>20-30 inches</size>
             <habitat>Ocean</habitat>
-            <vores>Omnivores</vores>
-            <type>Carcharhiniformes</type>
+            <vores>Carnivores</vores>
+            <phylum>Chordata</phylum>
         </variety>
         <diet>
-            <food1>Crabs</food1>
-            <food2>Squid</food2>
+            <food1>Smaller snakes</food1>
+            <food2>Lizards</food2>
             <food3>Small Sharks</food3>
-            <food4>Rays</food4>
-            <food5>Turtles</food5>
+            <food4>Frogs</food4>
+            <food5>Fishes</food5>
         </diet>
         <about>
-            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+            <description>Sea snakes, or coral reef snakes, are elapid snakes that inhabit marine environments for most or all of their lives. They belong to two subfamilies, Hydrophiinae and Laticaudinae.</description>
         </about>
         <relative>
-            <family>Requiem sharks</family>
+            <family>Elapidae</family>
         </relative>
         <bite>
-            <pressure>6,000 pounds per square centimeter or more.</pressure>
+            <pressure>150 per square inch.</pressure>
         </bite>
     </fish>
     
     <fish>
-        <name>Tiger Shark</name>
+        <name>Great White Shark</name>
         <variety>
-            <color>Gray</color>
-            <size>18 Feet</size>
+            <color>Gray with a white underbelly</color>
+            <size>15 to 20 Feet</size>
             <habitat>Ocean</habitat>
-            <vores>Omnivores</vores>
-            <type>Carcharhiniformes</type>
+            <vores>Carnivores</vores>
+            <phylum>Chordata</phylum>
         </variety>
         <diet>
-            <food1>Crabs</food1>
-            <food2>Squid</food2>
-            <food3>Small Sharks</food3>
-            <food4>Rays</food4>
-            <food5>Turtles</food5>
+            <food1>Sea lions</food1>
+            <food2>Seals</food2>
+            <food3>Rays</food3>
+            <food4>Crustaceans</food4>
+            <food5>Dolphins</food5>
         </diet>
         <about>
-            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+            <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or simply great white, is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans.</description>
         </about>
         <relative>
-            <family>Requiem sharks</family>
+            <family>Lamnidae</family>
         </relative>
         <bite>
-            <pressure>6,000 pounds per square centimeter or more.</pressure>
+            <pressure>18,216 newtons (4,095 lbf).</pressure>
         </bite>
     </fish>
     
